@@ -1,3 +1,4 @@
+id: kdaf4bq9kptgnxf381uudf6t6xeo782qyw3sebrs0ylstarl
 name: mul
 main: src/main.zig
 license: MIT
